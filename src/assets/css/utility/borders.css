@@ -1,0 +1,15 @@
+.border-r-4 {
+    border-radius: 4px;
+}
+
+.border-r-8 {
+    border-radius: 8px;
+}
+
+.border-r-12 {
+    border-radius: 12px;
+}
+
+.border-colored {
+    border: 1px solid var(--color-border);
+}
