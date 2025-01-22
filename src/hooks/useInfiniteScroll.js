@@ -1,4 +1,4 @@
-import { ref, onMounted, watchEffect } from 'vue'
+import { ref, onMounted } from 'vue'
 
 /**
  * Custom hook for handling infinite scroll functionality using the Intersection Observer API.
